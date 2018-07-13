@@ -1,0 +1,186 @@
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\ApplicationInsights.config
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\OzgurPansiyon.dll.config
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\OzgurPansiyon.dll
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\OzgurPansiyon.pdb
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\Antlr3.Runtime.dll
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\Microsoft.AI.Web.dll
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\Microsoft.ApplicationInsights.dll
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\Newtonsoft.Json.dll
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\System.Web.Helpers.dll
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\System.Web.Mvc.dll
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\System.Web.Optimization.dll
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\System.Web.Razor.dll
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\System.Web.Webpages.Deployment.dll
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\System.Web.Webpages.dll
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\System.Web.Webpages.Razor.dll
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\WebGrease.dll
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\Antlr3.Runtime.pdb
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\Microsoft.AI.Web.xml
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\Microsoft.ApplicationInsights.xml
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\Newtonsoft.Json.xml
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\System.Web.Optimization.xml
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\System.Web.Razor.xml
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\System.Web.Webpages.xml
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\System.Web.Webpages.Deployment.xml
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\System.Web.Webpages.Razor.xml
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\System.Web.Helpers.xml
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\System.Web.Mvc.xml
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\obj\Release\OzgurPansiyon.dll
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\obj\Release\OzgurPansiyon.pdb
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\Microsoft.Web.Delegation.dll
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\Microsoft.Web.Deployment.dll
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\bin\Microsoft.Web.Deployment.Tracing.dll
+C:\Users\toshıbaa\documents\visual studio 2015\Projects\OzgurPansiyon\OzgurPansiyon\obj\Release\OzgurPansiyon.csprojResolveAssemblyReference.cache
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\ApplicationInsights.config
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\OzgurPansiyon.dll.config
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\OzgurPansiyon.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\OzgurPansiyon.pdb
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\Antlr3.Runtime.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\Microsoft.AI.Web.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\Microsoft.Web.Delegation.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\Microsoft.Web.Deployment.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\Microsoft.Web.Deployment.Tracing.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\Newtonsoft.Json.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\System.Web.Helpers.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\System.Web.Mvc.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\System.Web.Optimization.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\System.Web.Razor.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\System.Web.Webpages.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\System.Web.Webpages.Razor.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\WebGrease.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\Microsoft.Web.Administration.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\Antlr3.Runtime.pdb
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\Microsoft.AI.Web.xml
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\Newtonsoft.Json.xml
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\System.Web.Optimization.xml
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\System.Web.Razor.xml
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\System.Web.Webpages.xml
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\System.Web.Webpages.Razor.xml
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\System.Web.Helpers.xml
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\bin\System.Web.Mvc.xml
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\obj\Release\OzgurPansiyon.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\obj\Release\OzgurPansiyon.pdb
+C:\Users\ÇAKIR\Desktop\OzgurPansiyon\OzgurPansiyon\obj\Release\OzgurPansiyon.csprojResolveAssemblyReference.cache
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\ApplicationInsights.config
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\OzgurPansiyon.dll.config
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\OzgurPansiyon.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\OzgurPansiyon.pdb
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Antlr3.Runtime.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Microsoft.AI.Web.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Microsoft.Web.Delegation.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Microsoft.Web.Deployment.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Microsoft.Web.Deployment.Tracing.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Newtonsoft.Json.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\System.Web.Helpers.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\System.Web.Mvc.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\System.Web.Optimization.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\System.Web.Razor.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\System.Web.Webpages.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\System.Web.Webpages.Razor.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\WebGrease.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Microsoft.Web.Administration.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Antlr3.Runtime.pdb
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Microsoft.AI.Web.xml
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Newtonsoft.Json.xml
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\System.Web.Optimization.xml
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\System.Web.Razor.xml
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\System.Web.Webpages.xml
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\System.Web.Webpages.Razor.xml
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\System.Web.Helpers.xml
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\System.Web.Mvc.xml
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\obj\Release\OzgurPansiyon.dll
+C:\Users\ÇAKIR\Desktop\OzgurPansiyonEn son\OzgurPansiyon\obj\Release\OzgurPansiyon.pdb
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\ApplicationInsights.config
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\OzgurPansiyon.dll.config
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\OzgurPansiyon.dll
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\OzgurPansiyon.pdb
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Antlr3.Runtime.dll
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Microsoft.AI.Web.dll
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Microsoft.Web.Delegation.dll
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Microsoft.Web.Deployment.dll
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Microsoft.Web.Deployment.Tracing.dll
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Newtonsoft.Json.dll
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\System.Web.Helpers.dll
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\System.Web.Mvc.dll
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\System.Web.Optimization.dll
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\System.Web.Razor.dll
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\System.Web.Webpages.dll
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\System.Web.Webpages.Razor.dll
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\WebGrease.dll
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Microsoft.Web.Administration.dll
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Antlr3.Runtime.pdb
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Microsoft.AI.Web.xml
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\Newtonsoft.Json.xml
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\System.Web.Optimization.xml
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\System.Web.Razor.xml
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\System.Web.Webpages.xml
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\System.Web.Webpages.Razor.xml
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\System.Web.Helpers.xml
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\bin\System.Web.Mvc.xml
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\obj\Release\OzgurPansiyon.csprojResolveAssemblyReference.cache
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\obj\Release\OzgurPansiyon.dll
+C:\Users\Kubra\Desktop\OzgurPansiyonEn son\OzgurPansiyon\obj\Release\OzgurPansiyon.pdb

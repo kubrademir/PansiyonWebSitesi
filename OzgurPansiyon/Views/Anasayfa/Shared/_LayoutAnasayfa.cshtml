@@ -1,0 +1,399 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>@ViewBag.Title -Özgür Pansiyon</title>
+        <link href="~/Views/Anasayfa/styles/anasayfa.css" rel="stylesheet" type="text/css" />
+        <link href="~/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+
+        <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
+    </head>
+
+<body>
+
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand  navbar-brand-centered" href="#">ÖZGÜR PANSİYON</a>
+            </div>
+            <div class="collapse navbar-collapse" id="myNavbar">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="http://www.artvinozgurpansiyon.com/">Anasayfa</a></li>
+                    <li><a href="http://www.artvinozgurpansiyon.com/ulasim">Ulaşım</a></li>
+                    <li><a href="http://www.artvinozgurpansiyon.com/mutfak">Mutfak</a></li>
+                    <li><a href="http://www.artvinozgurpansiyon.com/iletisim">İletişim</a></li>
+
+                </ul>
+            </div>
+        </div>
+    </nav>
+  
+      @*Slider*@
+
+    
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+
+                    <ol class="carousel-indicators">
+                        <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="4"></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="5"></li>
+                      
+                    </ol>
+
+                    <div class="carousel-inner">
+                        <div class="item active">
+                            <img src="~/Content/img/bahçe slider.jpg"alt="First slide">
+
+                        </div>
+                   
+                        <div class="item">
+                            <img src="~/Content/img/slide.jpg" alt="Second slide">
+
+                        </div>
+                        <div class="item">
+                            <img src="~/Content/img/slider.jpg" alt="Third slide">
+
+                        </div>
+                        
+                        <div class="item">
+                            <img src="~/Content/img/slider8.jpg" alt="Fourth slide">
+
+                        </div>
+                        <div class="item">
+                            <img src="~/Content/img/slider9.jpg" alt="Fifth slide">
+
+                        </div>
+                        <div class="item">
+                            <img src="~/Content/img/karagöl.jpg" alt="Sixth slide">
+
+                        </div>
+                    </div>
+
+                    <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
+                        <span class="glyphicon glyphicon-chevron-left"></span>
+                    </a><a class="right carousel-control"
+                           href="#carousel-example-generic" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right">
+                        </span>
+                    </a>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="push">
+    </div>
+
+@*content*@
+       
+    <section class="fleet_section">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <h1 class="bar_">Özgür Pansiyon</h1>
+                    <h3>Hakkımızda</h3>
+                    <p> Pansiyonumuza ait biri alt katta biri üst katta olmak üzere iki tane çift kişilik yatak,9 adette tek kişilik yatak bulunmaktadır.
+                    Her odaya ait bir tuvalet,banyo ve televizyon vardır.Ayrı olarak ortak kullanım alanında da 2 adet banyo ve tuvaletimiz bulunmaktadır.
+                    Müşterilerimize kahvaltıyı verebileceğimiz ayrı bir mutfak ve bahçede vakit geçirebilmeleri için de çardağımız bulunmaktadır.İçerde
+                    vakit geçirmek isteyen müşterilerimiz için oturma salonumuz ve balkonumuz bulunmaktadır. </p>
+
+                </div>
+            </div>
+
+        </div>
+
+        <div class="container">
+            <div class="col-xs-12">
+
+
+                <div id="myCarousel" class="carousel slide text-right">
+                    <div class="pull-right">
+                        <ul style="margin:0px;" class="control-box pager">
+                            <li><a class="" href="#myCarousel" data-slide="prev"><i class="glyphicon glyphicon-chevron-left"></i></a></li>
+                            <li><a class="" href="#myCarousel" data-slide="next"><i class="glyphicon glyphicon-chevron-right"></i></a></li>
+                        </ul>
+                    </div>
+
+                
+                    <div class="carousel-inner">
+                        <div class="item">
+
+                            <div class="row">
+                                <div class="col-sm-8">
+                                    <img  src="~/Content/img/alt kat_640x480.jpg">
+                                </div>
+                                <div class="col-sm-4">
+                                    <h3>Odalarımız</h3>
+                                    <h4>Alt Kat</h4>   
+                                    <ul>
+                                        <li>Birer tane çift kişilik yatak ve tek kişilik yatak,</li>
+                                        <li>Bir adet banyo ve tuvalet,</li>
+                                        <li>Televizyon,</li>
+                                        <li>Mini buzdolabı,</li>
+                                        <li>Ücretsiz Wifi bulunmaktadır.</li>
+                                    </ul>
+                                    
+                                </div>
+                            </div>
+
+                        </div><!-- /Slide1 -->
+
+
+                        <div class="item">
+
+                            <div class="row">
+                                <div class="col-sm-8">
+                                    <img src="~/Content/img/alt kat3_640x480.jpg">
+                                </div>
+                                <div class="col-sm-4">
+                                    <h3>Odalarımız</h3>
+                                    <h4>Alt Kat</h4>
+                                    <ul>
+                                        <li>Birer tane çift kişilik yatak ve tek kişilik yatak,</li>
+                                        <li>Bir adet banyo ve tuvalet,</li>
+                                        <li>Televizyon,</li>
+                                        <li>Mini buzdolabı,</li>
+                                        <li>Ücretsiz Wifi bulunmaktadır.</li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                        </div><!-- /Slide1 -->
+
+                        <div class="item">
+
+                            <div class="row">
+                                <div class="col-sm-8">
+                                    <img src="~/Content/img/alt kat (2)_640x480.jpg">
+                                </div>
+                                <div class="col-sm-4">
+                                    <h3>Odalarımız</h3>
+                                    <h4>Alt Kat</h4>
+                                    <ul>
+                                        <li>Birer tane çift kişilik yatak ve tek kişilik yatak,</li>
+                                        <li>Bir adet banyo ve tuvalet,</li>
+                                        <li>Televizyon,</li>
+                                        <li>Mini buzdolabı,</li>
+                                        <li>Ücretsiz Wifi bulunmaktadır.</li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                        </div><!-- /Slide1 -->
+
+                        <div class="item">
+
+                            <div class="row">
+                                <div class="col-sm-8">
+                                    <img src="~/Content/img/cift_640x480.jpg">
+                                </div>
+                                <div class="col-sm-4">
+                                    <h3>Odalarımız</h3>
+                                    <h4>Üst Kat</h4>
+                                    <ul>
+                                        <li>Bir tane çift kişilik yatak ve tek kişilik yatak,</li>
+                                        <li>Televizyon,</li>
+                                        <li>Ücretsiz Wifi bulunmaktadır.</li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                        </div><!-- /Slide1 -->
+
+                        <div class="item">
+
+                            <div class="row">
+                                <div class="col-sm-8">
+                                    <img src="~/Content/img/3 tek_640x480.jpg">
+                                </div>
+                                <div class="col-sm-4">
+                                    <h3>Odalarımız</h3>
+                                    <h4>Üst Kat</h4>
+                                    <ul>
+                                        <li>Üç tane tek kişilik yatak,</li>
+                                        <li>Bir adet banyo ve tuvalet,</li>
+                                        <li>Televizyon,</li>
+                                        <li>Ücretsiz Wifi bulunmaktadır.</li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                        </div><!-- /Slide1 -->
+                        <div class="item">
+
+                            <div class="row">
+                                <div class="col-sm-8">
+                                    <img src="~/Content/img/3 tek 2_640x480.jpg">
+                                </div>
+                                <div class="col-sm-4">
+                                    <h3>Odalarımız</h3>
+                                    <h4>Üst Kat</h4>
+                                    <ul>
+                                        <li>Üç tane tek kişilik yatak,</li>
+                                        <li>Bir adet banyo ve tuvalet,</li>
+                                        <li>Televizyon,</li>
+                                        <li>Ücretsiz Wifi bulunmaktadır.</li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                        </div><!-- /Slide1 -->
+
+                        <div class="item">
+
+                            <div class="row">
+                                <div class="col-sm-8">
+                                    <img src="~/Content/img/3 tek (2)_640x480.jpg">
+                                </div>
+                                <div class="col-sm-4">
+                                    <h3>Odalarımız</h3>
+                                    <h4>Üst Kat</h4>
+                                    <ul>
+                                        <li>Üç tane tek kişilik yatak,</li>
+                                        <li>Bir adet banyo ve tuvalet,</li>
+                                        <li>Televizyon,</li>
+                                        <li>Ücretsiz Wifi bulunmaktadır.</li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                        </div><!-- /Slide1 -->
+
+                        <div class="item">
+
+                            <div class="row">
+                                <div class="col-sm-8">
+                                    <img src="~/Content/img/ranza2_640x480.jpg">
+                                </div>
+                                <div class="col-sm-4">
+                                    <h3>Odalarımız</h3>
+                                    <h4>Üst Kat</h4>
+                                    <ul>
+                                        <li>İki tane tek kişilik yatak,bir tane ranza,</li>
+                                        <li>Bir adet banyo ve tuvalet,</li>
+                                        <li>Televizyon,</li>
+                                        <li>Ücretsiz Wifi bulunmaktadır.</li>
+                                    </ul>
+                                </div>
+
+                            </div>
+                        </div><!-- /Slide1 -->
+                        <div class="item">
+
+                            <div class="row">
+                                <div class="col-sm-8">
+                                    <img src="~/Content/img/giriş_640x480.jpg">
+                                </div>
+                                <div class="col-sm-4">
+
+                                    <h3>Üst Kat</h3>
+                                    <h4>Giriş</h4>
+
+
+                                </div>
+                            </div>
+
+                        </div><!-- /Slide1-->
+
+               
+
+                        <div class="item">
+
+                            <div class="row">
+                                <div class="col-sm-8">
+                                    <img src="~/Content/img/oturmasalonu_640x480.jpg">
+                                </div>
+                                <div class="col-sm-4">
+
+                                    
+                                    <h4>Oturma Salonu</h4>
+
+
+                                </div>
+                            </div>
+
+                        </div><!-- /Slide1-->
+
+                        <div class="item">
+
+                            <div class="row">
+                                <div class="col-sm-8">
+                                    <img src="~/Content/img/balkon_640x480.jpg">
+                                </div>
+                                <div class="col-sm-4">
+
+
+                                    <h4>Balkon</h4>
+
+
+                                </div>
+                            </div>
+
+                        </div><!-- /Slide1-->
+
+                        <div class="item active">
+
+                            <div class="row">
+                                <div class="col-sm-8">
+                                    <img src="~/Content/img/ranza_640x480.jpg">
+                                </div>
+                                <div class="col-sm-4">
+                                    <h3>Odalarımız</h3>
+                                    <h4>Üst Kat</h4>
+                                    <ul>
+                                        <li>İki tane tek kişilik yatak,bir tane ranza,</li>
+                                        <li>Bir adet banyo ve tuvalet,</li>
+                                        <li>Televizyon,</li>
+                                        <li>Ücretsiz Wifi bulunmaktadır.</li>
+                                    </ul>
+                                </div>
+
+                            </div>
+                        </div><!-- /Slide1 -->
+
+
+
+                    </div>
+
+
+
+                    <!-- /.control-box -->
+
+                </div><!-- /#myCarousel -->
+
+            </div><!-- /.col-xs-12 -->
+        </div><!-- /.container -->
+    </section>
+
+
+
+    <div class="container body-content">
+        <hr />
+        @RenderBody()
+
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Özgür Pansiyon</p>
+        </footer>
+</div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+   
+    
+ 
+</body>
+</html>
